@@ -2,7 +2,7 @@
 
 It is one of the most essentials things the body need; water helps to digest food and get rid of waste such urea through urine and undigested food as feces. Water is also essential for the cells in the body to function properly and also water provides necessary nutrients as well, and water helps to regulate the body temperature. 
 
-<b><u> Benefits of consuming water</u>
+<b><u> Benefits of consuming water</u></b>
 <ul>
 <li>	Water helps to prevent constipation by softening the stools which allows digested food to easily flow through the intestines.</li>
 <li>	When water is consumed while eating it mixes with saliva and the food is digested faster because the food can be quickly dissolved in the mouth.</li>
@@ -11,7 +11,7 @@ It is one of the most essentials things the body need; water helps to digest foo
   <li>	Drinking water instead of other beverages helps to reduce sugar and calorie intake.</li>
   </ul>
   
-<b><u>Drawbacks of not consuming enough water</u>
+<b><u>Drawbacks of not consuming enough water</u></b>
 <ul>
 <li>	If enough water is not consumed you will suffer from dehydration, the symptoms are headaches, thirst, dizziness, dry tongue, skin and chest pain.</li>
 <li>Lack of water causes your urine to turn yellow because waste products are not excreted properly from the kidneys.</li>
