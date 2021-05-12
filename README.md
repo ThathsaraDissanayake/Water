@@ -1,4 +1,4 @@
-## Introduction
+## Why do our body need water?
 
 It is one of the most essentials things the body need; water helps to digest food and get rid of waste such urea through urine and undigested food as feces. Water is also essential for the cells in the body to function properly and also water provides necessary nutrients as well, and water helps to regulate the body temperature. 
 
