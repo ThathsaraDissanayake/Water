@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/ThathsaraDissanayake/Water/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+It is one of the most essentials things the body need; water helps to digest food and get rid of waste such urea through urine and undigested food as feces. Water is also essential for the cells in the body to function properly and also water provides necessary nutrients as well, and water helps to regulate the body temperature. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
